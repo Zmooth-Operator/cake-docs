@@ -222,4 +222,4 @@ nav:
 # Plugins
 plugins:
   - search
-  - glightbox
+  #- glightbox
