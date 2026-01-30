@@ -117,6 +117,12 @@ extra:
   status:
     new: Recently added
     deprecated: Deprecated
+  version:
+    provider: mike
+    default:
+    - latest
+    - dev
+    alias: true
 
 # Navigation
 nav:
@@ -222,4 +228,4 @@ nav:
 # Plugins
 plugins:
   - search
-  #- glightbox
+  - glightbox
